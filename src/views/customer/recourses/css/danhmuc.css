@@ -1,0 +1,29 @@
+.danhmuc {
+    width: 100%;
+    margin-left: 5cm;
+    margin-right: 3cm;
+  }
+  
+  .content_danhmuc {
+    width: 40%;
+    float: left;
+  }
+  
+  .images {
+    width: 60%;
+    float: right;
+  }
+  .tieude{
+    margin-left: 5cm;
+    margin-right: 4cm;
+  }
+  .content_danhmuc1 {
+    width: 60%;
+    float: right;
+  
+  }
+  
+  .images1 {
+    width: 40%;
+    float: left;
+  }
